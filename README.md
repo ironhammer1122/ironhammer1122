@@ -1,33 +1,54 @@
-<h1 align="center">Hi 👋, I'm Yash Sarate</h1>
-<h3 align="center">An aspiring student from India</h3>
+<h2 align="center">Hi 👋! I'm Yash Sarate</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ironhammer1122&label=Profile%20views&color=0e75b6&style=flat" alt="ironhammer1122" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ironhammer1122" alt="ironhammer1122" /></a> </p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ironhammer1122.ironhammer1122&"  />
+</div>
 
-<p align="left"> <a href="https://twitter.com/yashsarate2832" target="blank"><img src="https://img.shields.io/twitter/follow/yashsarate2832?logo=twitter&style=for-the-badge" alt="yashsarate2832" /></a> </p>
+###
 
-- 🌱 I’m currently learning **C language**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ironhammer1122&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=true&custom_title=Development%20Insights" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ironhammer1122&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=true&custom_title=Development%20Focus%20Areas" height="130" alt="languages graph"  />
+</div>
 
-- 💬 Ask me about **Python language,video and photo editing**
+###
 
-- 📫 How to reach me **sarateyash@gmail.com**
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+</div>
 
-- ⚡ Fun fact **I am an introvert**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yashsarate2832" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashsarate2832" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yash sarate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash sarate" height="30" width="40" /></a>
-<a href="https://instagram.com/thisisyash1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thisisyash1122" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ironhammer1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ironhammer1122" height="30" width="40" /></a>
-</p>
+<img align="right" height="150" src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif?cid=790b761101kpsenqqx9mh69pwtznk2efy83ld94ib0rhci7r&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ironhammer1122&show_icons=true&locale=en&layout=compact" alt="ironhammer1122" /></p>
+<div align="center">
+  <a href="https://youtube.com/@arxgaming_522?si=NBtC4hatBDIvtfpa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/thisisyash1122?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/yash-sarate-6693b8323/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ironhammer1122&show_icons=true&locale=en" alt="ironhammer1122" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ironhammer1122&" alt="ironhammer1122" /></p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ironhammer1122/ironhammer1122/output/snake.svg" alt="Snake animation" />
+
+###
+
+
